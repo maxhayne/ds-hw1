@@ -1,5 +1,4 @@
 Name: Max Hayne
-Course: CS455
 Assignment 1
 
 Running 'gradle build' from this folder should build my project. My Registry
